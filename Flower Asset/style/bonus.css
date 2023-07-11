@@ -1,0 +1,43 @@
+.titl{
+    text-align: justify;
+    text-align: center;
+}
+
+.box{
+    background-color:pink;
+   align-items: center;
+   padding: 0 0;
+   border-radius: 300px 300px 0px 0px;
+   width: 464px;
+height: 428px;
+margin-right: 30px;
+margin-left: 240px;
+
+}
+.profile1{
+    width: 350px;
+height: 428px;
+
+}
+.box2{
+    background-color: rgba(155, 248, 248, 0.603);
+    align-items: center;
+   padding: 0 0;
+   border-radius: 300px 300px 0px 0px;
+   width: 464px;
+height: 428px;
+margin-right: 30px;
+}
+.box3{
+    background-color: rgba(180, 176, 171, 0.719);
+    align-items: center;
+   padding: 0 0;
+   border-radius: 300px 300px 0px 0px;
+   width: 464px;
+height: 428px;
+margin-right: 240px;
+}
+.picture{
+    display: flex;
+    align-items: center;
+}
