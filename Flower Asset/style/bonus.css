@@ -1,3 +1,7 @@
+.baner{
+    background-color: pink;
+    display: flex;
+}
 .titl{
     text-align: justify;
     text-align: center;
